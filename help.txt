@@ -1,0 +1,9 @@
+Thank you for using my Wordle answer getter!
+
+Make sure you have a version of Python3 and Pip installed
+
+Also please make sure you have the "requests" pip library installed. If you are not sure you can open command prompt on windows and run the command:
+pip install requests
+
+
+To run the program you can simply run start.bat
